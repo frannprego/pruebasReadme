@@ -1,5 +1,7 @@
-Repositorio metodo dos
-1.  Hacer un fork en el código de un compañero 
-3. Clonar el código de un compañero con un git clone y el enclace del codigo en el terminal 
+Repositorio metodo do
+1.CLonar repositorio de un compalero  con un git clone y el enclace del codigo en el terminal 
+2. Crear nuestro repositorio remoto en git hub
+3. Añadir repositorio remoto con git remote add origin
+4. Modificar código
 4. Abrir el proyecto en el Intellij
-5. Hacer git push y subirlo a un nuevo repositorio
+5.Hacer un codigo y push a nuetro remoto
