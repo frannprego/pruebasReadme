@@ -1,6 +1,6 @@
 Repositorio metodo 2
 
-1.CLonar repositorio de un compalero  con un git clone y el enclace del codigo en el terminal 
+1.Clonar repositorio de un compalero  con un git clone y el enclace del codigo en el terminal 
 
 2. Crear nuestro repositorio remoto en git hub
    
